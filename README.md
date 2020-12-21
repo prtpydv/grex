@@ -1,5 +1,5 @@
 # grex
-A small grep clone from [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html).
+A small grep clone.
 
 Given a string and a path, print only the lines that contain the given string.
 
@@ -16,3 +16,6 @@ cargo install gr3x
 
 ## USAGE:
     gr3x <pattern> <path>
+    
+## SOURCE:
+rust-cli.github.io/book/index.html
