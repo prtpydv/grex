@@ -14,8 +14,8 @@ To install, run:
 cargo install gr3x
 ```
 
-## USAGE:
+## Usage:
     gr3x <pattern> <path>
     
-## SOURCE:
+## Source:
 rust-cli.github.io/book/index.html
