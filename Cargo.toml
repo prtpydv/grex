@@ -7,3 +7,14 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+clap-verbosity-flag = "0.2"
+env_logger = "0.6"
+exitfailure = "0.5"
+failure = "0.1"
+log = "0.4"
+structopt = "0.2"
+
+[dev-dependencies]
+assert_cmd = "0.10"
+predicates = "1"
+tempfile = "3"
